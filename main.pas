@@ -1,5 +1,5 @@
-//berne power
-Program tpayed3;
+//TP3 - Casadidio, Querede, Giordanino
+Program tp3;
 
 Uses crt, sysutils;
 
@@ -12,7 +12,7 @@ Type
     telefono : string;
     cod_ciudad : string;
     consultas: integer;
-  End;
+    End;
 
   ciudades = Record
     cod_ciudad : string;
